@@ -1,0 +1,1 @@
+The dump folder is where dumped folders and images will go. Please feel free to delete this text file! :D
