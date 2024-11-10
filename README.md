@@ -1,4 +1,6 @@
-# img-scrape
+# ImgScrape
+A small image pulling bot for Python.
+
 Requirements:
   - datetime
   - bs4
