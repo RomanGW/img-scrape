@@ -1,5 +1,5 @@
 # ImgScrape
-A small image pulling bot for Python.
+Code for an image-pulling bot using Python.
 
 Requirements:
   - datetime
@@ -13,7 +13,7 @@ Requirements:
 
 A little project used to put something in my GitHub account. Meant to show off some of my Computer Science oriented skills with Python programming, as well as my Data oriented skills with data scraping and organization. img-scrape pulls all images from a website entered by the user by gathering "img-src"s using the find_all() function in bs4 (BeautifulSoup). It uses requests to access data from the website entered. Besides bs4 and requests, it also uses Image from PIL, urlparse from urllib.parse, datetime, and os for the purposes of saving Image data, parsing urls, getting the name for a save folder, and creating that save folder in /dump, respectively. 
 
-How to use:
+# How to use:
 
 Please download the entire directory as images downloaded while using img-scrape.py will be downloaded to a generated folder within the /dump folder in the directory.
 
