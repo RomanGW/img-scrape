@@ -1,4 +1,4 @@
-# ImgScrape
+# img-scrape
 Code for an image-pulling bot using Python.
 
 Requirements:
